@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 Hi there, I'm forman!
 
-<!--
-**frmnnet/frmnnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub Profile
 
-Here are some ideas to get you started:
+## Active Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [**LegacyAI**](https://github.com/frmnnet/LegacyAI)
+  
+  A Gemini client for legacy iOS, supports iOS 5 and above.
+
+- [**ClashOrigins Client**](https://github.com/frmnnet/ClashOrigins-Client)
+  
+  A Clash of Clans v1.7.0 client, supports iOS 4.3 and above.
+
+## Coming Soon / On Hold
+
+- **Clash Origins Servers (V1-2, V3, V5-6)**
+
+  Clash of Clans private servers written in Python.
+
+- **GitHub for Legacy iOS**
+
+  GitHub Client for legacy iOS. In closed beta.
+
+
+![](https://komarev.com/ghpvc/?username=frmnnet)
