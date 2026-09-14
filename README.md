@@ -6,11 +6,15 @@ Welcome to my GitHub Profile
 
 - [**LegacyAI**](https://github.com/frmnnet/LegacyAI)
   
-  A Gemini client for legacy iOS, supports iOS 5 and above.
+  A Gemini client for legacy iOS, supports iOS 5-10.
 
 - [**ClashOrigins Client**](https://github.com/frmnnet/ClashOrigins-Client)
   
-  A Clash of Clans v1.7.0 client, supports iOS 4.3 and above.
+  A Clash of Clans v1.70 client, supports iOS 4.3-10.
+
+- [**Offline Clash V1.70**](https://t.me/ClashOrigins/84)
+
+  Offline Clash of Clans V1.70 client, supports iOS 4.3-10. 
 
 ## Coming Soon / On Hold
 
@@ -23,4 +27,5 @@ Welcome to my GitHub Profile
   GitHub Client for legacy iOS. In closed beta.
 
 
-![](https://komarev.com/ghpvc/?username=frmnnet)
+![](https://komarev.com/ghpvc/?username=frmnnet) 
+[![Telegram](https://img.shields.io/badge/Telegram-@frmnnet-26A5E4?logo=telegram&logoColor=white)](https://t.me/frmnnet)
