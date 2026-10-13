@@ -17,9 +17,10 @@ Welcome to my GitHub Profile
   Offline Clash of Clans V1.70 client, supports iOS 4.3-10. 
 
 - [**HayDay 1.5.42**](https://github.com/frmnnet/HayDay-1.5.42)
+  
   HayDay v1.5.42 private server.
 
-## Coming Soon / Closed Source / On Hold
+## Coming Soon / On Hold
 - **CoC v2.21** 
 
   Experimental private server for Clash of Clans v2.21.
