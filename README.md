@@ -16,15 +16,13 @@ Welcome to my GitHub Profile
 
   Offline Clash of Clans V1.70 client, supports iOS 4.3-10. 
 
-## Coming Soon / On Hold
+- [**HayDay 1.5.42**](https://github.com/frmnnet/HayDay-1.5.42)
+  HayDay v1.5.42 private server.
 
-- **Clash Origins Servers (V1-2, V3, V5-6)**
+## Coming Soon / Closed Source / On Hold
+- **CoC v2.21** 
 
-  Clash of Clans private servers written in Python.
-
-- **GitHub for Legacy iOS**
-
-  GitHub Client for legacy iOS. In closed beta.
+  Experimental private server for Clash of Clans v2.21.
 
 
 ![](https://komarev.com/ghpvc/?username=frmnnet) 
